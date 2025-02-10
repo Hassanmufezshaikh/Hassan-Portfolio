@@ -2681,17 +2681,15 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-3 {
-	top: 60%;
-}
+
 
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-4 {
+	/* .single-process.process-4 {
 	flex-direction: row-reverse;
 	top: 80%;
-}
+} */
 
 .process-section
 	.process-moving-path
@@ -2716,7 +2714,6 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-3
 	.process-text-wrapper {
 	padding-right: 8%;
 	align-items: flex-end;
@@ -2726,7 +2723,7 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-4
+	/* .single-process.process-4 */
 	.process-text-wrapper {
 	padding-left: 8%;
 	align-items: flex-start;
@@ -2754,7 +2751,6 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-3
 	.process-text-wrapper::after {
 	content: '\f15c';
 }
@@ -2762,7 +2758,7 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-4
+	/* .single-process.process-4 */
 	.process-text-wrapper::after {
 	content: '\f1c9';
 	left: unset;
@@ -2788,7 +2784,6 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-3
 	.process-image {
 	padding-left: 8%;
 }
@@ -2796,7 +2791,7 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-4
+	/* .single-process.process-4 */
 	.process-image {
 	padding-right: 8%;
 }
@@ -2804,7 +2799,7 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-4
+	/* .single-process.process-4 */
 	.process-image
 	img {
 	width: 85%;
@@ -2829,7 +2824,6 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-3
 	.next-step {
 	transform: rotate(-45deg) scale(0);
 }
@@ -2837,7 +2831,7 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-4
+	/* .single-process.process-4 */
 	.next-step {
 	transform: rotate(45deg) scale(0);
 }
@@ -2865,7 +2859,6 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-3.current
 	.next-step {
 	transform: rotate(-45deg) scale(1);
 	opacity: 1;
@@ -2875,7 +2868,7 @@ body:not(.black) .process-section .circle {
 .process-section
 	.process-moving-path
 	.process-path-svg-relative
-	.single-process.process-4.current
+	/* .single-process.process-4.current */
 	.next-step {
 	transform: rotate(45deg) scale(1);
 	opacity: 1;
